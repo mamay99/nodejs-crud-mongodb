@@ -19,25 +19,9 @@ Postman - API testing tool
 
 Project Structure
 
-/project-root
-│── /controllers      # Handles request logic
-│   │── user.js       # Controller for user request & CRUD operations
-│
-│── /models           # Defines MongoDB schemas
-│   │── user.js       # Mongoose User schema for desired fields
-│
-│── /routes           # fucntions routes
-│   │── user.js       # Routes for handling CRUD requests
-│
-│── /middlewares      # Custom middleware 
-│   │── index.js      # Maintainig the log file for all operations 
-│
-│── /connection.js    # MongoDb Database Connections
-│
-│── .gitignore        # Files to ignore in Git
-│── package.json      # Project dependencies and scripts
-│── index.js          # Entry point of the application
-│── README.md         # Project documentation
+
+![image](https://github.com/user-attachments/assets/da81ade6-8f0a-44a8-a90b-b88372a9369a)
+
 
 Description of Key Directories and Files
 
